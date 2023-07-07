@@ -1,0 +1,9 @@
+1) BUG_ID
+2) Title
+3) Severity
+4) Priority
+5) Enviroment
+6) Precondition
+7) STR
+8) AR
+9) ER
